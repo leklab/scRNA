@@ -1,0 +1,4 @@
+S1	/home/ec753/project/scRNAseq/star_out/S1/S1.Aligned.out.bam
+S2	/home/ec753/project/scRNAseq/star_out/S2/S2.Aligned.out.bam
+S3	/home/ec753/project/scRNAseq/star_out/S3/S3.Aligned.out.bam
+S4	/home/ec753/project/scRNAseq/star_out/S4/S4.Aligned.out.bam
